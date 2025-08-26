@@ -19,12 +19,11 @@ body {
   margin: 100px auto;
 }
 .card p {
-  max-width: 60%;
+  width: 60%;
+  margin: 10px auto;
   color: hsl(224, 23%, 55%);
   font-size: 12px;
   line-height: 1.5;
-
-  margin: 25px;
 }
 .plan {
   display: flex;
